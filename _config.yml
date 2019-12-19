@@ -33,7 +33,7 @@ comments :
 
 # Internal nav
 nav:
-  - ACCEUIL: "/pso/"
+  - ACCUEIL: "/pso/"
   - LA SOCIETE: "/pso/societe/"
   - NOS REALISATIONS: "/pso/gallery/"
   - PARTENAIRES: "/pso/journal/"
